@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "This project is built using Binance Futures Testnet API. API credentials are user-provided at runtime. No real credentials or trades are stored or included."
 
 
@@ -27,3 +28,14 @@ It allows users to place **MARKET** and **LIMIT** orders using their own API cre
   - `python-dotenv` (optional for .env support)
 
 
+=======
+# binance-futures-bot
+
+## 📌 Assignment Details
+
+This project is built for the primetrade.ai assignment.  
+It demonstrates a CLI-based trading bot for Binance USDT-M Futures on the testnet environment.
+
+- ✅ Uses real-time API interaction (testnet only)
+- 📝 Log files included (see `binance_bot.log`)
+>>>>>>> bc46a93f112f39670115dfe2ecf0b438456826ea
